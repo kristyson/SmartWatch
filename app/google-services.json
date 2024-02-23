@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952994232965",
+    "project_id": "smartwatch-25e3e",
+    "storage_bucket": "smartwatch-25e3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952994232965:android:3edfcd802cfbdb953187ec",
+        "android_client_info": {
+          "package_name": "com.example.smartwatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVrKFsuOjzAHbiC5RfTh8_NaoeYTGlQ-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
